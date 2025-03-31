@@ -57,22 +57,6 @@ Options:
 - `muted` - Show all muted peers
 - `quit` - Exit the program
 
-## Testing
-
-Run unit tests:
-```bash
-python test_peer.py
-```
-
-Run integration test:
-```bash
-python integration_test.py
-```
-
-Run stress test:
-```bash
-python stress_test.py
-```
 
 ## Quick Test Example
 
